@@ -56,17 +56,18 @@
     - issue를 해결 시 close (진행하면서)
     - 당일 토론내용 등 추가할 내용이 있으면 이슈에 댓글로 달기 
 
-## Chapter1. Study Test (// TBD)
+## Chapter1. Study Test (Example)
 
-| 아이템 | 자료 | 날짜 |
+| 아이템 Issue | 자료 | 날짜 |
 | -- | -- | -- | 
-| [item0.테스트아이템issue연결?](https://github.com/miyeon396/study-effective-java/labels/chapter1) | [item0.테스트아이템발표자료?당당자?](https://github.com/miyeon396/study-effective-java/blob/master/src/main/java/step1/item0.md) | 2022-09-25 |
+| 이슈 링크 | 자료 링크 | 2022-09-25 |
 
 ## Chapter2. 객체 생성과 파괴
 
-| 아이템 | 자료 | 날짜 |
+| 아이템 Issue | 자료 | 날짜 |
 | -- | -- | -- | 
-| | | 2022-09-28 |
+| [item01](https://github.com/now-study/study-effective-java/issues?q=item+%2301), [item02](https://github.com/now-study/study-effective-java/issues?q=item+%2302)| item01, item02(:book:) | 2022-10-06(off) |
+| [item03](https://github.com/now-study/study-effective-java/issues?q=item+%2303), [item04](https://github.com/now-study/study-effective-java/issues?q=item+%2304), [item05](https://github.com/now-study/study-effective-java/issues?q=item+%2305)| [item03](https://github.com/now-study/study-effective-java/blob/main/chapter2/item03/item03.md), item04(:book:), item05 | 2022-10-13(on) |
 
 
 ## 💡 참고
