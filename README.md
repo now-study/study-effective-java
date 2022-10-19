@@ -74,3 +74,8 @@
 
 - https://github.com/jbloch/effective-java-3e-source-code
 - [https://javabom.tistory.com/70](https://javabom.tistory.com/70)
+
+## 순서
+
+- 이형주, 연미연, 김수정
+- 노대호, 조희진, 이효재
